@@ -1,5 +1,64 @@
-# 💫 About Me:
-💫 About Me<br><br>🎓 CSE Undergraduate<br>💻 Passionate about Software Development and Emerging Technologies<br>🌱 Currently learning Full-Stack Development, DSA, and AI<br>🔒 Exploring Cybersecurity and Blockchain Technologies<br>🤝 Open to collaborating on innovative tech projects<br>📚 Constantly learning, building, and improving<br><br>"Code. Learn. Build. Repeat."
+<h1 align="center">Hi 👋, I'm Bhavya</h1>
+<h3 align="center">Computer Science Undergraduate | Aspiring Full-Stack Developer | Lifelong Learner</h3>
+
+---
+
+## 👨‍💻 About Me
+
+🎓 CSE Undergraduate
+
+💡 Turning bugs into features since day one.
+
+🚀 Currently training my brain in:
+- 🌐 Full-Stack Development
+- 🧩 DSA & Problem Solving
+- 🤖 AI & Machine Learning
+- 🔐 Cybersecurity
+- ⛓️ Blockchain
+
+🔨 Most of my projects begin with:
+
+> **"How hard can it be?"**
+
+and usually end with:
+
+> **"Okay... now I understand why it's hard."**
+
+🤝 Open to collaborations, hackathons, innovative ideas, and conversations about technology.
+
+📚 Lifelong learner • Occasional overthinker • Full-time debugger
+
+⚡ **Fun Fact:** 90% of coding is figuring out why the code that worked yesterday doesn't work today.
+
+---
+
+> ### 🚀 Building today what I wished existed yesterday.
+
+---
+
+## 🛠️ Tech Journey
+
+```text
+Learning → Building → Breaking → Debugging → Improving → Repeating
+```
+
+## 📈 Current Focus
+
+- Building Full-Stack Projects
+- Strengthening DSA & Problem Solving
+- Exploring AI & Machine Learning
+- Learning Cybersecurity Concepts
+- Contributing to Meaningful Projects
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: [Your LinkedIn]
+- 💻 GitHub: [Your GitHub]
+- 📧 Email: [Your Email]
+
+---
+
+⭐ If you like my work, feel free to explore my repositories and connect with me!
 
 
 ## 🌐 Socials:
