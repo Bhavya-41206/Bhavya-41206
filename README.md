@@ -17,8 +17,8 @@ Status:
 
 * 🌐 Full-Stack Development
 * 🤖 AI & Machine Learning
-* 🔐 Cybersecurity
 * 🧩 DSA & Problem Solving
+* 🔐 Blockchain
 
 ### Current Objective
 
